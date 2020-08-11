@@ -2,7 +2,7 @@
 
 f(n) = g(n) + b (n)
 g = how long will it take From beginning
-b = how long will it take to get to End (Heuristic) - don't overestimate
+b = how long will it take to get to End 
 */
 
 
